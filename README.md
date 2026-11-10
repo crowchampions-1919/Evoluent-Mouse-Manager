@@ -179,4 +179,4 @@ This repository serves as the official landing page for Evoluent Mouse Manager. 
 **Get the most recent version of Evoluent Mouse Manager today!**
 
 ---
-**Last updated:** 2026-11-09 07:37:17 UTC
+**Last updated:** 2026-11-10 01:51:57 UTC
